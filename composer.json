@@ -1,7 +1,8 @@
 {
-    "name": "mamadou/psi",
-    "description": "a template for building packagist",
-    "license": "MIT",
+    "name": "sulsira/psi",
+    "description": "test package",
+    "type": "laravel",
+    "license": "mit",
     "authors": [
         {
             "name": "mamadou jallow",

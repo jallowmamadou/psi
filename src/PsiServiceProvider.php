@@ -28,6 +28,7 @@ class PsiServiceProvider extends ServiceProvider
 
     public function boot()
     {
+        $this->package('sulsira/psi');
         require __DIR__ . '/Http/routes.php';
     }
 }
