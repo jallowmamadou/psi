@@ -1,0 +1,20 @@
+{
+    "name": "mamadou/psi",
+    "description": "a template for building packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mamadou jallow",
+            "email": "sulsiralumo@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+          "Sulsira\\Psi\\": "src/"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
